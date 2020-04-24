@@ -9,6 +9,7 @@ Identified steps:
 * Integrate Zpush code
 * Integrate Zimbra backend
 * Integrate Zimbra backend Configuration to zmconfigd and/or zmlocalconfig
+* Configure logs and log rotate
 * Integrate in store deployment
 
 Features : 
